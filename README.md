@@ -24,7 +24,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://github.com/Valeria1311/data-analytics/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.xlsx">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 <p>Выводы (итоги):<p>
@@ -43,7 +43,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1ZbzTYPZcdyXgfU_YdhlYKsAGA6VQRqyi">Ссылка на проект</a>
  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
  
 <p>Выводы (итоги):<p>
